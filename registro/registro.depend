@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1674682978 source:c:\users\luism\onedrive\documentos\c++\proyectoregistro\registro\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<ctime>
+	"classRegistro.h"
+	"classAuto.h"
+
+1674683211 c:\users\luism\onedrive\documentos\c++\proyectoregistro\registro\classregistro.h
+	<sstream>
+	<ctime>
+	"classAuto.h"
+
+1674683226 c:\users\luism\onedrive\documentos\c++\proyectoregistro\registro\classauto.h
+
